@@ -2,7 +2,7 @@
 This is a simple Java Swing App demonstrating how to query Postgres using Java.
 
 
-The app supports adding, retrieving, deleting, and editing cars in an inventory table in Postgres. Cars are validating for legitimacy using the NHTSA Vehicle API.
+The app supports adding, retrieving, deleting, and editing cars in an inventory table in Postgres. Cars are validated for legitimacy using the NHTSA Vehicle API.
 
 **Features**
 
